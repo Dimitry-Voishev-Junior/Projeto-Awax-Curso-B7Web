@@ -83,7 +83,7 @@ header {
 .banner {
     height: calc(100vh - 100px);
     background-color: #333;
-    background-image: url("/assets/images/bg.jpg");
+    background-image: url(../images/bg.jpg);
     background-size: cover;
     background-position: bottom;
     overflow: hidden;
@@ -334,7 +334,7 @@ header {
 }
 
 .bg-team {
-    background-image: url("/assets/images/bg.jpg");
+    background-image: url(../images/bg.jpg);
     background-size: cover;
     background-position: center;
     padding: 0;
@@ -802,7 +802,7 @@ form button {
 }
 
 .section-map {
-    background-image: url(/assets/images/mapa.jpg);
+    background-image: url(../images/mapa.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
